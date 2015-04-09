@@ -141,7 +141,7 @@
 		<div class="user_reviews">
 			<div class="container">
 				<div class="row">
-					<p class="pull-right col-xs-6 col-sm-8 col-md-8">
+					<div class="pull-right col-xs-6 col-sm-8 col-md-8">
 						“Nico is amazing!  He's been walking our dog, Sonja, for about a year and a half now. 
 						 Sonja LOVES him and is so excited to see him for her walks." 
 						 <br>
@@ -151,7 +151,7 @@
 						<i class="glyphicon glyphicon-star"></i>
 						<i class="glyphicon glyphicon-star"></i>
 						<i class="glyphicon glyphicon-star"></i>
-					</p>
+					</div>
 			
 				</div>
 			</div>	
