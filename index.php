@@ -83,8 +83,8 @@
 	<section id="section1">	
 		<div class="container centered">
 			<h2 ><span class="orange">Relax,</span><span class="blue">its Easy as Barking</span> </h2>
-			<div class="row">
-		  		<div class="content">
+			<div class="row content">
+		  		
 		  			
 		  			<div class="col-md-4 col-sm-4 li">
 		  				<img src="imgs/search.jpg">
@@ -114,7 +114,7 @@
 		  					Than book and pay for your walks online through United Dog walkers. No cash  nessasary
 		  				</p>
 		  			</div>
-		  		</div>  <!-- content closed -->
+		  		
 		 	</div>	<!-- row closed -->
 		</div>
 	</section>
