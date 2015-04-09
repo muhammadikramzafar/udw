@@ -61,22 +61,20 @@
 	<header>	
 		<div id="banner" class="container-fluid">
 			<div class="container">
-				<div class="row">
-		  			<div class="banner_text">
-		  				<p class="banner_text_rancho"><i class="fa fa-heart-o"></i>We love them as much as you do. </p>
-		  				<p class="banner_text_merri">Find your perfact dog walker today!</p>
-		  				<form class="form-inline">
-						  <div class="form-group col-md-6  col-xs-12 col-sm-8 nopadding">
-						   <input type="text" class="form-control" placeholder="Enter your city or postal code">
-						  </div>
-						
-						  <button type="submit" class="btn btn-default col-md-2 col-sm-2 col-xs-12 nopadding">Search</button>
-						</form>
-						<div class="clearfix"></div>
-		  				<p class="bannerr_text_roboto col-md-12 nopadding">*Now walking in San Francisco Bay Area!</p>
-		  			</div>
-		  		</div>	
-			</div> <!-- container closed -->
+				<div class="banner_text">
+	  				<p class="banner_text_rancho"><i class="fa fa-heart-o"></i>We love them as much as you do. </p>
+	  				<p class="banner_text_merri">Find your perfact dog walker today!</p>
+	  				<form class="form-inline">
+					  <div class="form-group col-md-6  col-xs-12 col-sm-8 nopadding">
+					   <input type="text" class="form-control" placeholder="Enter your city or postal code">
+					  </div>
+					
+					  <button type="submit" class="btn btn-default col-md-2 col-sm-2 col-xs-12 nopadding">Search</button>
+					</form>
+					<div class="clearfix"></div>
+	  				<p class="bannerr_text_roboto col-md-12 nopadding">*Now walking in San Francisco Bay Area!</p>
+	  			</div>
+	  		</div> <!-- container closed -->
 		</div> <!-- Banner id cloded -->
 	</header>
 	<section id="section1">	

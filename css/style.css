@@ -117,9 +117,10 @@
 		 margin-bottom:90px;
 		 }
 	/*Content start*/
+	#section1 h2{margin-top:50px;}
 	.content{
 		display:block;
-		margin-top:50px;
+		
 		margin-bottom:20px;
 		}
 	.orange{
@@ -128,7 +129,7 @@
 	.blue{
 		color :#3d76a9;
 		 }
-	.content h2{
+	#section1 h2{
 		display:block;
 		margin-bottom:60px;
 		font-family :  'Merriweather', serif;
